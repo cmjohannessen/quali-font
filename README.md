@@ -10,7 +10,7 @@ This repository contains both the sample images, data, and code needed to reprod
 
 ## How to use this repository?
 
-The analyses were performed in a [R Markdown Notebook](https://rmarkdown.rstudio.com/lesson-10.html), an authoring framework for data science, which runs R code in the RStudio environment.
+The analyses were performed in an [R Markdown Notebook](https://rmarkdown.rstudio.com/lesson-10.html), an authoring framework for data science, which runs R code in the RStudio environment.
 
 Because The R Markdown Notebook is self-contained, you don't need to install R or RStudio on your computer to inspect either the code or the analyses. The .nb.html file is self-contained and can simply be viewed in any web browser.
 
