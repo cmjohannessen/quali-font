@@ -1,0 +1,148 @@
+﻿Type;Typeface;Regions;Straight;Angle;Curve;Connectivity
+Hand;Arsilon;261;234;244;1333;4
+Hand;Bayshore;3;27;31;70;5
+Hand;Belluga;241;204;366;1768;3
+Hand;Better Times;110;42;59;836;4
+Hand;Bon Vivant Family;80;95;36;958;2
+Hand;Born Ready;213;101;74;1974;3
+Hand;Bourton;7;32;22;54;3
+Hand;FF Market;7;18;4;98;2
+Hand;FF Tartine Script;8;24;24;89;1
+Hand;Futura Now;9;42;64;42;0
+Hand;Gambler;6;32;41;85;4
+Hand;Hello Paris;7;20;25;103;4
+Hand;Intro Rust;6;13;27;183;5
+Hand;Jeff Script;8;15;16;93;0
+Hand;La Luxes;5;28;45;126;4
+Hand;Lumios Marker;9;21;15;84;0
+Hand;Moon Time;6;26;41;69;5
+Hand;Palmer Lake;11;22;20;83;2
+Hand;Paper Tiger;6;33;53;76;4
+Hand;PT Script Zephyr;9;18;15;78;0
+Hand;Skate;9;17;15;94;0
+Hand;Supa Mega Fantastic;6;13;24;114;5
+Sans;Axiforma;9;46;47;12;0
+Sans;Brandon Text;9;44;17;101;0
+Sans;Campton;9;48;51;12;0
+Sans;Cera Pro;10;45;47;12;0
+Sans;Din Condensed;9;51;49;10;0
+Sans;DIN Next S;9;49;49;15;0
+Sans;FF Clan;9;49;52;18;0
+Sans;FF DIN;9;48;48;18;0
+Sans;FF Mark;9;47;49;12;0
+Sans;Futura PT;9;46;48;12;0
+Sans;Galano Grotesque;9;47;49;12;0
+Sans;Geogrotesque;9;57;20;84;0
+Sans;Gilroy;9;45;47;12;0
+Sans;Helvetica;9;45;48;12;0
+Sans;Helvetica Now;9;45;47;18;0
+Sans;ITC Avant Garde Gothic;9;45;48;12;0
+Sans;Mont;9;47;49;12;0
+Sans;Neue Haas Grotesk;9;45;47;19;0
+Sans;Panton;9;50;16;80;0
+Sans;Steradian;9;47;48;21;0
+Sans;Sucrose;991;1891;2631;4014;0
+Sans;TT Commons;9;46;47;15;0
+Sans;TT Firs Neue;9;49;51;12;0
+Sans;TT Norms Pro;9;46;49;15;0
+Script;Above the Beyond;7;17;36;134;5
+Script;Absolute Beauty;6;27;33;133;4
+Script;Authenia;39;87;27;516;1
+Script;Beloved;6;14;26;104;3
+Script;Boston Skyline;256;193;298;1162;3
+Script;Chin Up Buttercup;12;12;17;119;2
+Script;Delivery Note;9;32;19;87;0
+Script;Double Porter;9;14;29;94;4
+Script;Fabiola;6;17;41;107;3
+Script;Fineday;7;12;32;86;3
+Script;Garden Grown;9;14;20;130;1
+Script;Gelato Fresco;9;11;37;113;3
+Script;Handelson;7;26;2;212;4
+Script;Hanley Pro;7;31;34;112;5
+Script;Harman;6;11;27;122;5
+Script;Just Lovely;57;26;4;360;1
+Script;Limon;9;9;33;125;4
+Script;Local Brewery;7;2;14;455;5
+Script;Madina Script;212;105;112;1775;4
+Script;Magnite;295;161;96;2125;3
+Script;Meritocracy;8;25;26;100;4
+Script;Nexa Rust;751;67;26;3438;5
+Script;Northwell;278;145;206;1553;3
+Script;Organika;8;4;7;142;3
+Script;Rollerscript;8;17;29;115;1
+Script;Sassafrassy;11;6;35;456;3
+Script;Saturday Script;126;46;25;1379;2
+Script;Selfie;9;30;20;113;1
+Script;Seventies;7;14;43;71;2
+Script;Silver South;8;19;37;92;3
+Script;Summer Loving;1063;196;186;7471;2
+Script;Thirsty Rough;238;52;35;1336;5
+Script;Turbinado;56;30;94;322;2
+Script;Viva Beautiful;16;4;33;275;4
+Script;White Oleander;20;27;24;511;3
+Serif;Aire;9;67;14;133;0
+Serif;Albra;9;71;76;84;0
+Serif;Anko;9;45;45;138;0
+Serif;Baltica;9;99;104;26;0
+Serif;Bauer Bodoni;9;101;93;63;0
+Serif;Begum;10;69;74;119;0
+Serif;Blacker Pro;9;101;105;26;0
+Serif;Bodoni;10;95;97;47;0
+Serif;Capitolium 2;10;56;73;129;0
+Serif;Cardillac;9;51;16;163;0
+Serif;Corporate A Pro;9;56;72;99;0
+Serif;Desire;8;72;66;87;1
+Serif;Dress;9;35;67;162;0
+Serif;Editor;9;106;109;22;0
+Serif;Freight Display Pro;8;68;71;81;1
+Serif;Hermann;10;71;78;100;0
+Serif;ITC Charter;9;123;126;23;0
+Serif;ITC Cheltenham;10;40;44;117;0
+Serif;Jazmín;9;47;52;86;0
+Serif;Lawrence;8;44;44;115;1
+Serif;Linotype Didot;9;96;97;37;0
+Serif;Minion Pro;8;66;71;111;1
+Serif;Morison;9;74;77;106;0
+Serif;Mrs Eaves;9;71;75;107;0
+Serif;Quiche Flare;8;46;50;78;1
+Serif;Radiata;9;98;101;27;0
+Serif;Recoleta;9;44;15;140;0
+Serif;Rossanova;9;29;37;87;0
+Serif;Sabon;9;69;74;100;0
+Serif;Silk Serif;7;41;39;87;1
+Serif;TT Jenevers;10;83;89;65;0
+Serif;Velour;8;63;66;121;1
+Serif;Zeit;9;72;77;109;0
+Slab;Aptifer Slab;9;97;101;16;0
+Slab;Artegra Slab;9;89;93;19;0
+Slab;Bogue Slab;9;72;74;80;0
+Slab;Breton;9;86;87;12;0
+Slab;Calvert;9;89;91;23;0
+Slab;Circuit;9;46;50;29;0
+Slab;Clarendon;9;80;73;88;0
+Slab;Courier New;9;68;48;100;0
+Slab;DIN Next R;9;92;12;174;0
+Slab;Egyptian Slate;9;98;104;19;0
+Slab;FF Ernestine;9;95;100;23;0
+Slab;Foro Rounded;9;70;44;109;0
+Slab;Glypha;9;98;103;18;0
+Slab;Henderson Slab;9;99;100;18;0
+Slab;ITC American Typewriter;9;29;16;189;0
+Slab;Klose Slab;9;99;89;85;0
+Slab;Leto Two;9;126;130;16;0
+Slab;LTC Squareface;9;109;95;29;0
+Slab;Mortise;9;97;102;19;0
+Slab;Museo (Slab);9;62;48;55;0
+Slab;Museo Slab;9;82;87;22;0
+Slab;Newslab;9;102;105;16;0
+Slab;Nexa Slab;9;99;101;12;0
+Slab;PMN Caecilia;9;99;105;18;0
+Slab;Rockwell;9;97;101;15;0
+Slab;Sagona;10;97;71;80;0
+Slab;Sketch Block;578;574;767;2777;0
+Slab;Smart Chameleon;9;66;37;85;0
+Slab;Suomi Slab Serif;9;97;100;23;0
+Slab;Technotyp;9;100;102;17;0
+Slab;URW Clarendon;9;93;72;80;0
+Slab;Vista Slab;9;89;93;26;0
+Slab;Yearbook;15;261;261;0;0
