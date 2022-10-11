@@ -2,6 +2,8 @@
 
 This repository is associated with the article *A Quantitative framework for analyzing distinctive features of typography* by Christian Mosbæk Johannessen, Mads nedergaard Qwist and Anders Glent Buch, to be published in *Design Studies*.
 
+[![DOI](https://zenodo.org/badge/549730866.svg)](https://zenodo.org/badge/latestdoi/549730866)
+
 ## What does this repository contain?
 
 This repository contains both the sample images, data, and code needed to reproduce and inspect the results reported in the article.
