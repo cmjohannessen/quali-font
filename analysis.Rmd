@@ -2,9 +2,12 @@
 title: "A Quantitative approach to Distinctive Features of Typography"
 Author: "Christian Mosbæk Johannnessen, University of Southern Denmark, Odense, Denmark"
 output: html_notebook
+bibliography: references.bib
 ---
   
-This code is written by Christian Mosbæk Johannessen. It operationalizes Theo van Leeuwen's "distinctive feature"-approach to typography, as well as elements of Andreas Stötzner's "Signography".
+This notebook was written by Christian Mosbæk Johannessen, Dept. of Language and Communication, University of Southern Denmark.
+
+It quantifies and operationalizes Theo van Leeuwen's @vanleeuwent.2005 so-called "distinctive feature"-approach to typography and incorporates elements of Andreas Stötzner's "Signography".
 
 **Table of Contents**\
 1. Setting up\
@@ -16,7 +19,7 @@ This code is written by Christian Mosbæk Johannessen. It operationalizes Theo v
 **1.1 Load packages**\
 This chunk loads the packages required to execute the notebook.
 
-```{r include=FALSE}
+```{r}
 packages <- c("ggplot2", "ggbiplot", "Hmisc", "factoextra", "FactoClass", "lattice", "plotly", "rgl", "car","here", "effsize", "psych")
 lapply(packages, require, character.only = TRUE)
 rm(packages)
@@ -282,11 +285,6 @@ correlation_matrix <- as.data.frame(res.var$coord) # Store the correlations as a
 PCs <- c("PC1", "PC2", "PC3", "PC4", "PC5", "PC6", "PC7", "PC8", "PC9", "PC10", "PC11") # Rename the variables from Dim.1 to PC1, which is more transparent
 colnames(correlation_matrix) <- PCs
 rm(PCs) # Housekeeping
-```
-
-Perform Kaiser-Meyer-Olkin test for measuring sampling adequacy. Result is miserable we're only getting a MSA = 0.5
-```{r}
-KMO(correlation_matrix)
 ```
 
 Make fancy biplot of PC1 vs. PC2
